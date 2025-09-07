@@ -18,6 +18,9 @@ public class MethodCall {
         if(!name.isEmpty() && age!=0) {
             happyBirthday(name, age);
         }
+
+        double doubledAge = add(age, age);
+        System.out.println(doubledAge);
     }
 
     static void happyBirthday(String name, int age){
@@ -26,4 +29,15 @@ public class MethodCall {
         System.out.printf("You are %d years old!\n", age);
         System.out.println("Happy Birthday to you!\n");
     }
+
+    //overloaded methods
+    static double add(double a, double b){
+        return a + b;
+    }
+
+    static double add(double a, double b, double c){
+        return a + b + c;
+    }
+
+
 }
