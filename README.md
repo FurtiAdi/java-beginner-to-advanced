@@ -36,14 +36,14 @@ The repo is for refreshing my Java knowledge: revisiting the fundamentals, pract
 - Shopping Cart 🛒
 - Compound Interest Calculator 💸
 - Weight & Temperature Converters 🏋️ 🌡️
-Banking Program 💰
-Dice Roller 🎲
-Quiz & Hangman Games 💯 🕺
-Rock Paper Scissors 🗿
-Slot Machine 🎰
-Music Player 🎼
-Countdown Timer ⏳
-Alarm Clock ⏰
+- Banking Program 💰
+- Dice Roller 🎲
+- Quiz & Hangman Games 💯 🕺
+- Rock Paper Scissors 🗿
+- Slot Machine 🎰
+- Music Player 🎼
+- Countdown Timer ⏳
+- Alarm Clock ⏰
 
 
 **📖 Course Timeline Covered**
