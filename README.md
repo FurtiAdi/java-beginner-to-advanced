@@ -48,7 +48,8 @@ The repo is for refreshing my Java knowledge: revisiting the fundamentals, pract
 
 **📖 Course Timeline Covered**
 
-Here’s the detailed progression of topics:
+**Here’s the detailed progression of topics:**
+
 Introduction to Java ☕
 Variables ❎
 User Input ⌨️
