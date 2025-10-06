@@ -125,7 +125,9 @@ Multithreading 🧶
 🔧 **Tech Stack**
 
 Java (JDK 21)
+
 IntelliJ IDEA 
+
 Git & GitHub for version control
 
 
