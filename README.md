@@ -31,8 +31,8 @@ The repo is for refreshing my Java knowledge: revisiting the fundamentals, pract
 
 ⭐ **Example Projects Built**
 
-Some of the small projects implemented along the way:
-Mad Libs Game 📕
+-Some of the small projects implemented along the way:
+-Mad Libs Game 📕
 Shopping Cart 🛒
 Compound Interest Calculator 💸
 Weight & Temperature Converters 🏋️ 🌡️
