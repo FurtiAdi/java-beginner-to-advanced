@@ -17,10 +17,15 @@ The repo is for refreshing my Java knowledge: revisiting the fundamentals, pract
 🗂️**Repository Structure**
 📦 java-beginner-to-advanced
  ┣ 📂 basics              # Syntax, variables, input/output
+ 
  ┣ 📂 oop                 # Classes, inheritance, polymorphism
+ 
  ┣ 📂 io                  # File read/write, exceptions
+ 
  ┣ 📂 threads             # Threading & multithreading
+ 
  ┣ 📂 projects            # Small projects built during course
+ 
  ┗ 📜 README.md
 
 
