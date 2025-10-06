@@ -1,4 +1,5 @@
-Java Refresher – From Beginner to Advanced ☕
+**Java Refresher – From Beginner to Advanced** ☕
+
 📌 **About**
 
 This repository contains my practice code while following a 12-hour Java course (Beginner to Advanced) on YouTube.
